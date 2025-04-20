@@ -22,7 +22,7 @@ Libraries/Frameworks:
 [![](https://visitcount.itsvg.in/api?id=pikacu100&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 📈 Portfolio:
+## 📈 My Apps:
 
 
 ### 🔗  [MyFitnessGoals](https://play.google.com/store/apps/details?id=cz.kixameloapps.myfitnessgoals&hl=en-US&ah=dZWsCU4t5N9fZTcqldywswwY5EY)
