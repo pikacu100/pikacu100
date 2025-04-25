@@ -4,8 +4,7 @@ I'm a developer focused on mobile applications, especially using Flutter. My goa
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pikacu100.apk)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/michal-sedlák-17044b357/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pikacu100.apk)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/michal-sedlák-17044b357/)
 
 ## 💻 Tech Stack
 
@@ -39,7 +38,7 @@ I'm a developer focused on mobile applications, especially using Flutter. My goa
 
 A modern fitness app designed to help you reach your personal health and fitness goals — whether you're looking to build muscle, lose weight, or just stay active.
 
-### [Flutter Messenger](https://github.com/adityadroid/Messio)
+### [Flutter Messenger](https://github.com/adityadroid/Messio](https://github.com/pikacu100/Flutter-messenger)
 
 An open-source messenger built with Flutter. Using end-to-end encryption.
 
