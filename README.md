@@ -43,6 +43,15 @@ A modern fitness app designed to help you reach your personal health and fitness
 
 An open-source messenger built with Flutter. Using end-to-end encryption.
 
+### [JSON Opener](https://github.com/pikacu100/json_opener)
+
+A lightweight tool for opening and inspecting JSON files. Ideal for developers needing a quick way to view and navigate JSON data structures.
+
+### [Flutter Snake](https://github.com/pikacu100/flutter_snake)
+
+A classic Snake game recreated using Flutter. Enjoy the nostalgic gameplay with a modern touch, built entirely with Flutter's UI toolkit.
+
+
 ---
 
 Feel free to reach out if you'd like to collaborate or just say hi!
