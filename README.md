@@ -43,7 +43,7 @@ A modern fitness app designed to help you reach your personal health and fitness
 
 An open-source messenger built with Flutter. Using end-to-end encryption.
 
-### [JSON Opener](https://github.com/pikacu100/json_opener)
+### [JSON Opener](https://github.com/pikacu100/flutter_jsonopener)
 
 A lightweight tool for opening and inspecting JSON files. Ideal for developers needing a quick way to view and navigate JSON data structures.
 
