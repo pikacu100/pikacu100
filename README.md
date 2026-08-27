@@ -16,8 +16,6 @@ Open to freelance Flutter work.
 
 ### 🛠️ Stack
 
-### 🛠️ Stack
-
 **Mobile**
 
 [![](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift&perline=4)](https://skillicons.dev)
