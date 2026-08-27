@@ -16,7 +16,23 @@ Open to freelance Flutter work.
 
 ### 🛠️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift,python,c,cpp,cs,firebase,postgres,git,githubactions&perline=6)](https://skillicons.dev)
+### 🛠️ Stack
+
+**Mobile**
+
+[![](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift&perline=4)](https://skillicons.dev)
+
+**Backend & Data**
+
+[![](https://skillicons.dev/icons?i=dotnet,cs,python,firebase,postgres&perline=5)](https://skillicons.dev)
+
+**Tooling**
+
+[![](https://skillicons.dev/icons?i=git,githubactions,docker,figma&perline=4)](https://skillicons.dev)
+
+**Also**
+
+[![](https://skillicons.dev/icons?i=c,cpp&perline=2)](https://skillicons.dev)
 
 ### 📦 Projects
 
