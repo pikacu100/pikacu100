@@ -1,52 +1,64 @@
-# 👋 Hello!
+# 👋 Michal Sedlák
 
-I'm a developer focused on mobile applications, especially using Flutter. My goal is to create modern and efficient apps that bring value to users.
+Flutter developer. Building production mobile apps end to end — UI, native platform code, backend, releases.
 
-## 🌐 Socials
+Currently at **Openvibe**, a social app that merges Mastodon, Bluesky and Nostr into one feed. 
+Open to freelance Flutter work.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pikacu100.apk)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/michal-sedlák-17044b357/)
+📍 Brno, Czech Republic
 
-## 💻 Tech Stack
+### ⚡ What I do
 
-### 🧑‍💻 Languages
+- 📱 Flutter apps from architecture to store release
+- 🔧 Native Kotlin / Swift modules via platform channels
+- 🗄️ REST API and database design
+- 🔄 CI/CD pipelines, App Store & Google Play releases
 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🛠️ Stack
 
-### 🔥 Databases
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift,python,c,cpp,cs,firebase,postgres,git,githubactions&perline=6)](https://skillicons.dev)
 
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+### 📦 Projects
 
-### 📚 Libraries & Frameworks
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+#### 💪 [MyFitnessGoals](https://play.google.com/store/apps/details?id=cz.kixameloapps.myfitnessgoals&hl=en-US)
+Fitness tracking app on Google Play.
+Flutter + Firebase.
 
----
+</td>
+<td width="50%" valign="top">
 
-[![](https://visitcount.itsvg.in/api?id=pikacu100&icon=0&color=0)](https://visitcount.itsvg.in)
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pikacu100&show_icons=true&theme=dark)
+#### 🔐 [Flutter Messenger](https://github.com/pikacu100/Flutter-messenger)
+Open-source messenger with
+end-to-end encryption.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 📱 My Apps
+#### 📄 [JSON Opener](https://github.com/pikacu100/flutter_jsonopener)
+Lightweight JSON viewer
+for developers.
 
-### [MyFitnessGoals](https://play.google.com/store/apps/details?id=cz.kixameloapps.myfitnessgoals&hl=en-US&ah=dZWsCU4t5N9fZTcqldywswwY5EY)
+</td>
+<td width="50%" valign="top">
 
-A modern fitness app designed to help you reach your personal health and fitness goals — whether you're looking to build muscle, lose weight, or just stay active.
+#### 🐍 [Flutter Snake](https://github.com/pikacu100/flutter_snake)
+Classic Snake, rebuilt
+in Flutter.
 
-### [Flutter Messenger](https://github.com/pikacu100/Flutter-messenger)
+</td>
+</tr>
+</table>
 
-An open-source messenger built with Flutter. Using end-to-end encryption.
+### 📬 Contact
 
-### [JSON Opener](https://github.com/pikacu100/flutter_jsonopener)
+[LinkedIn](https://linkedin.com/in/michal-sedlák-17044b357/) · [21sedlakmi@seznam.cz](mailto:21sedlakmi@seznam.cz)
 
-A lightweight tool for opening and inspecting JSON files. Ideal for developers needing a quick way to view and navigate JSON data structures.
+<br>
 
-### [Flutter Snake](https://github.com/pikacu100/flutter_snake)
-
-A classic Snake game recreated using Flutter. Enjoy the nostalgic gameplay with a modern touch, built entirely with Flutter's UI toolkit.
-
-
----
-
-Feel free to reach out if you'd like to collaborate or just say hi!
+<img src="https://github-readme-stats.vercel.app/api?username=pikacu100&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="450">
