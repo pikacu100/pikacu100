@@ -16,21 +16,20 @@ Open to freelance Flutter work.
 
 ### 🛠️ Stack
 
-**Mobile**
-
-[![](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift&perline=4)](https://skillicons.dev)
-
-**Backend & Data**
-
-[![](https://skillicons.dev/icons?i=dotnet,cs,python,firebase,postgres&perline=5)](https://skillicons.dev)
-
-**Tooling**
-
-[![](https://skillicons.dev/icons?i=git,githubactions,docker,figma&perline=4)](https://skillicons.dev)
-
-**Also**
-
-[![](https://skillicons.dev/icons?i=c,cpp&perline=2)](https://skillicons.dev)
+<table>
+  <tr>
+    <th>Mobile</th>
+    <th>Backend & Data</th>
+    <th>Tooling</th>
+    <th>Also</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,swift&perline=2" /></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=dotnet,cs,python,firebase,postgres&perline=3" /></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=git,githubactions,docker,figma&perline=2" /></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=c,cpp&perline=2" /></td>
+  </tr>
+</table>
 
 ### 📦 Projects
 
