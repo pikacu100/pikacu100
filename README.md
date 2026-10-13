@@ -31,20 +31,6 @@ On the backend side I do:
   </tr>
 </table>
 
-### Projects
-
-#### [MyFitnessGoals](https://play.google.com/store/apps/details?id=cz.kixameloapps.myfitnessgoals&hl=en-US)
-Fitness tracking app on Google Play. Flutter + Firebase.
-
-#### [Hiring Panel](https://github.com/pikacu100/hiring-panel)
-Claude Code skill: a panel of AI reviewers (ATS, CEO, recruiter, rival, hiring manager, teammate) reviews, debates and rebuilds your CV in any language.
-
-#### [Flutter Messenger](https://github.com/pikacu100/Flutter-messenger)
-Open-source messenger with end-to-end encryption.
-
-#### [Discord Bot Template](https://github.com/pikacu100/discord-bot-template)
-Minimal Discord bot starter. discord.js + slash commands.
-
 ### Contact
 
 I'm open to freelance Flutter work, so feel free to reach out. I'm based in Brno, Czech Republic.
