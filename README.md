@@ -1,20 +1,20 @@
-# 👋 Michal Sedlák
+# Hi, I'm Michal
 
-Flutter developer. Building production mobile apps end to end — UI, native platform code, backend, releases.
+Right now I'm working as a Flutter developer at **Openvibe**, a social app that merges Mastodon, Bluesky and Nostr into one feed.
 
-Currently at **Openvibe**, a social app that merges Mastodon, Bluesky and Nostr into one feed. 
-Open to freelance Flutter work.
+My main focus is mobile development, with backend work alongside it.
 
-📍 Brno, Czech Republic
+In mobile development I do:
 
-### ⚡ What I do
+- Flutter apps, from architecture to App Store and Google Play release
+- Native Kotlin and Swift modules via platform channels
 
-- 📱 Flutter apps from architecture to store release
-- 🔧 Native Kotlin / Swift modules via platform channels
-- 🗄️ REST API and database design
-- 🔄 CI/CD pipelines, App Store & Google Play releases
+On the backend side I do:
 
-### 🛠️ Stack
+- REST API and database design
+- CI/CD pipelines and release automation
+
+### Stack
 
 <table>
   <tr>
@@ -31,26 +31,22 @@ Open to freelance Flutter work.
   </tr>
 </table>
 
-### 📦 Projects
+### Projects
 
+#### [MyFitnessGoals](https://play.google.com/store/apps/details?id=cz.kixameloapps.myfitnessgoals&hl=en-US)
+Fitness tracking app on Google Play. Flutter + Firebase.
 
-#### 💪 [MyFitnessGoals](https://play.google.com/store/apps/details?id=cz.kixameloapps.myfitnessgoals&hl=en-US)
-Fitness tracking app on Google Play.
-Flutter + Firebase.
+#### [Hiring Panel](https://github.com/pikacu100/hiring-panel)
+Claude Code skill: a panel of AI reviewers (ATS, CEO, recruiter, rival, hiring manager, teammate) reviews, debates and rebuilds your CV in any language.
 
-#### 🧑‍⚖️ [Hiring Panel](https://github.com/pikacu100/hiring-panel)
-Claude Code skill: a panel of AI reviewers
-(ATS, CEO, recruiter, rival, hiring manager, teammate)
-reviews, debates and rebuilds your CV in any language.
+#### [Flutter Messenger](https://github.com/pikacu100/Flutter-messenger)
+Open-source messenger with end-to-end encryption.
 
-#### 🔐 [Flutter Messenger](https://github.com/pikacu100/Flutter-messenger)
-Open-source messenger with
-end-to-end encryption.
+#### [Discord Bot Template](https://github.com/pikacu100/discord-bot-template)
+Minimal Discord bot starter. discord.js + slash commands.
 
-#### 🤖 [Discord Bot Template](https://github.com/pikacu100/discord-bot-template)
-Minimal Discord bot starter.
-discord.js + slash commands.
+### Contact
 
-### 📬 Contact
+I'm open to freelance Flutter work, so feel free to reach out. I'm based in Brno, Czech Republic.
 
 [LinkedIn](https://linkedin.com/in/michal-sedlák-17044b357/) · [21sedlakmi@seznam.cz](mailto:21sedlakmi@seznam.cz)
