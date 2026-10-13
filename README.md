@@ -39,6 +39,11 @@ Open to freelance Flutter work.
 Fitness tracking app on Google Play.
 Flutter + Firebase.
 
+#### 🧑‍⚖️ [Hiring Panel](https://github.com/pikacu100/hiring-panel)
+Claude Code skill: a panel of AI reviewers
+(ATS, CEO, recruiter, rival, hiring manager, teammate)
+reviews, debates and rebuilds your CV in any language.
+
 #### 🔐 [Flutter Messenger](https://github.com/pikacu100/Flutter-messenger)
 Open-source messenger with
 end-to-end encryption.
