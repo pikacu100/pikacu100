@@ -18,16 +18,20 @@ On the backend side I do:
 
 <table>
   <tr>
-    <th>Mobile</th>
-    <th>Backend & Data</th>
-    <th>Tooling</th>
-    <th>Also</th>
+    <th align="left">Mobile</th>
+    <td><img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,swift" height="40" alt="Dart, Flutter, Kotlin, Swift" /></td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,swift&perline=2" /></td>
-    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=dotnet,cs,python,firebase,postgres&perline=3" /></td>
-    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=git,githubactions,docker,figma&perline=2" /></td>
-    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=c,cpp&perline=2" /></td>
+    <th align="left">Backend & Data</th>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,python,firebase,postgres" height="40" alt=".NET, C#, Python, Firebase, PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <th align="left">Tooling</th>
+    <td><img src="https://skillicons.dev/icons?i=git,githubactions,docker,figma" height="40" alt="Git, GitHub Actions, Docker, Figma" /></td>
+  </tr>
+  <tr>
+    <th align="left">Also</th>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp" height="40" alt="C, C++" /></td>
   </tr>
 </table>
 
