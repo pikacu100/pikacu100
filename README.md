@@ -47,13 +47,9 @@ reviews, debates and rebuilds your CV in any language.
 Open-source messenger with
 end-to-end encryption.
 
-#### 📄 [JSON Opener](https://github.com/pikacu100/flutter_jsonopener)
-Lightweight JSON viewer
-for developers.
-
-#### 🐍 [Flutter Snake](https://github.com/pikacu100/flutter_snake)
-Classic Snake, rebuilt
-in Flutter.
+#### 🤖 [Discord Bot Template](https://github.com/pikacu100/discord-bot-template)
+Minimal Discord bot starter.
+discord.js + slash commands.
 
 ### 📬 Contact
 
