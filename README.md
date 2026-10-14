@@ -1,42 +1,45 @@
 # Hi, I'm Michal
 
-Right now I'm working as a Flutter developer at **Openvibe**, a social app that merges Mastodon, Bluesky and Nostr into one feed.
+I'm a Flutter developer at **Openvibe**, a social app that merges Mastodon, Bluesky and Nostr into one feed. I build features in Flutter and Dart, write native Swift and Kotlin modules for iOS and Android, and ship the releases to the App Store and Google Play.
 
-My main focus is mobile development, with backend work alongside it.
+**Open to freelance projects and full-time mobile roles.** Based in Brno, remote or on-site. [Email me](mailto:21sedlakmi@seznam.cz)
 
-In mobile development I do:
+### What I do
 
-- Flutter apps, from architecture to App Store and Google Play release
-- Native Kotlin and Swift modules via platform channels
+**In mobile development:**
 
-On the backend side I do:
+- Flutter apps with Bloc/Cubit, built from Figma designs
+- Native Swift (iOS) and Kotlin (Android) modules connected through platform channels
+- Unit, widget, integration and golden tests
 
-- REST API and database design
-- CI/CD pipelines and release automation
+**On the backend and delivery side:**
+
+- API endpoints and database design for new features
+- CI/CD pipelines with GitHub Actions, which I set up and maintain
+
+**On my own:**
+
+- [MyFitnessGoals on Google Play](https://play.google.com/store/apps/details?id=cz.kixameloapps.myfitnessgoals), a Flutter and Firebase app for workout logging and nutrition tracking (OpenFoodFacts food database), which I built and published
 
 ### Stack
 
 <table>
   <tr>
-    <th align="left">Mobile</th>
-    <td><img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,swift" height="40" alt="Dart, Flutter, Kotlin, Swift" /></td>
+    <th>Mobile</th>
+    <th>Backend</th>
+    <th>Tooling</th>
   </tr>
   <tr>
-    <th align="left">Backend & Data</th>
-    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,python,firebase,postgres" height="40" alt=".NET, C#, Python, Firebase, PostgreSQL" /></td>
-  </tr>
-  <tr>
-    <th align="left">Tooling</th>
-    <td><img src="https://skillicons.dev/icons?i=git,githubactions,docker,figma" height="40" alt="Git, GitHub Actions, Docker, Figma" /></td>
-  </tr>
-  <tr>
-    <th align="left">Also</th>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp" height="40" alt="C, C++" /></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&perline=2" alt="Flutter, Dart, Kotlin, Swift" /></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=firebase,postgres,cs,dotnet&perline=2" alt="Firebase, PostgreSQL, C#, .NET" /></td>
+    <td align="center" valign="top"><img src="https://skillicons.dev/icons?i=githubactions,git,docker,figma&perline=2" alt="GitHub Actions, Git, Docker, Figma" /></td>
   </tr>
 </table>
 
+Flutter, Dart, Kotlin, Swift · Firebase, PostgreSQL, C#/.NET · GitHub Actions, Git, Docker, Figma · also Python (basic) and C/C++ 
+
 ### Contact
 
-I'm open to freelance Flutter work, so feel free to reach out. I'm based in Brno, Czech Republic.
+If you need a Flutter app built and shipped to both stores, or a mobile developer on your team, get in touch. I work in Czech and English.
 
-[LinkedIn](https://linkedin.com/in/michal-sedlák-17044b357/) · [21sedlakmi@seznam.cz](mailto:21sedlakmi@seznam.cz)
+[21sedlakmi@seznam.cz](mailto:21sedlakmi@seznam.cz) · [LinkedIn](https://linkedin.com/in/michal-sedl%C3%A1k-17044b357/)
